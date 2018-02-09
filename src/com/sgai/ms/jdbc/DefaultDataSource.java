@@ -14,9 +14,6 @@ public class DefaultDataSource implements IDataSource {
 	protected ResultSet rs = null;
 	protected IResult result = null;
 	private String driver;
-	
-	
-	
 	private String conn;
 	private String userId;
 	private String password;
